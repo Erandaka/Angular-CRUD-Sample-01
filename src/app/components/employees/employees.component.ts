@@ -12,10 +12,10 @@ export class EmployeesComponent implements OnInit {
   employees=[
     {
       code : '00001',
-      name:'Ishanka',
+      name:'Erandaka',
       gender: 'Female',
-      age:'25',
-      dob:'1996/02/11'
+      age:'28',
+      dob:'1993/02/11'
     },
     {
       code : '00002',
